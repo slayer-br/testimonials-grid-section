@@ -26,7 +26,7 @@ Typography
   --darkblue: #19212e;
   --gray100: #e7eaee;
   --gray200: #cfcfcf;
-  --gray400: rgb(103, 109, 126);
+  --gray400: #676d7e;
   --gray500: #48556a;
   --purple050: #eee5ff;
   --purple300: #c4a2f6;
@@ -126,7 +126,7 @@ body {
 }
 
 .two {
-  background-color: var(--gray400);
+  background-color: var(--gray500);
   grid-area: two;
 }
 
